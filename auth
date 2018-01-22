@@ -1,0 +1,6 @@
+<?php
+$conn=mysql_connect('localhost','','');
+mysql_select_db('delegacje',$conn);
+mysql_query('SET NAMES utf8', $conn);
+
+?>

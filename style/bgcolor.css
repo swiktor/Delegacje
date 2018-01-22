@@ -1,0 +1,26 @@
+body
+{
+  background-color: #808080;
+  -webkit-print-color-adjust: economy;
+}
+
+#all
+  {
+    width: 1104px;
+    height: 130px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border: none;
+    text-align: center;
+  }
+  #strzalka
+  {
+  width: 64px;
+  height: 64px;
+  float:left;
+  -webkit-print-color-adjust: economy;
+  }
